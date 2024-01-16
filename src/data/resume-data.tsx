@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "San Francisco, PST",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   about:
-    "Product manager tinkering with AI and design",
+    "Product manager tinkering with AI, growth and design",
   summary:
     "Self-driven product manager with experience in growth and machine learning. Currently working at Bytedance as a growth product manager for a new B2B work collaboration suite. Familiar with full-stack web development and machine learning stack. Interested in AI, productivity, and SaaS.",
   avatarUrl: "https://avatars.githubusercontent.com/u/54108129?v=4",
