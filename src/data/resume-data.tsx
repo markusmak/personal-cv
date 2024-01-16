@@ -91,7 +91,7 @@ export const RESUME_DATA = {
       end: "2021",
       description:
         "Created benchmark pipeline for our Auto-ML algorithm and incorporated performance benchmark into the product. Implemented ensemble learning to improve algorithm performance.",
-        learning: "Learnt How to write PRDs and production-ready Python code."
+        learning: "Learnt how to write PRDs and production-ready Python code."
     },
     {
       company: "Clipp",
@@ -162,7 +162,7 @@ export const RESUME_DATA = {
       title: "Crypto Arbitrage",
       techStack: ["Blockchain", "Solidity"],
       description:
-        "Built a multi-hop arbitrage algorithm on Ethereum",
+        "Designed a multi-hop arbitrage algorithm on Ethereum.",
       link: {
         label: "github.com",
         href: "https://github.com/remyjkim/sample-arbitrage",
