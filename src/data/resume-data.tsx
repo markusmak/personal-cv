@@ -134,8 +134,7 @@ export const RESUME_DATA = {
         "Academic resarch tool that synthesizes research papers from the past 20 years and identifies potential research gap.",
       logo: "jojomobile.png",
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+                href: "https://github.com/markusmak/cross-pollination",
       },
     },
     {
