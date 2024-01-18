@@ -131,7 +131,7 @@ export const RESUME_DATA = {
       title: "Cross Pollination",
       techStack: ["Hackathon", "LLM", "RAG"],
       description:
-        "Academic resarch tool that synthesizes research papers from the past 20 years and identifies potential research gap.",
+        "Resarch tool that synthesizes research papers from the past 20 years and identifies potential research gap. Hackathon 4th.",
       logo: "jojomobile.png",
       link: {
                 href: "https://github.com/markusmak/cross-pollination",
