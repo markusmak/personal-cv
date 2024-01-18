@@ -115,7 +115,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "(WIP) AI Terminal",
+      title: "AI-Powered Terminal Copilot",
       techStack: [
         "Python",
         "LLM",
