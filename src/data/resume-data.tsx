@@ -67,8 +67,9 @@ export const RESUME_DATA = {
       title: "Growth Product Manager",
       start: "2023",
       end: "Now",
-      description:
-        "Responsible for top funnel growth. Designed B2B content strategy and grew content UV by 25x and doubled the number of qualified leads within 4 months.",
+      description: "Responsible for top funnel growth. Designed B2B content strategy to grow content UV and qualified leads.",
+
+      //         "Responsible for top funnel growth. Designed B2B content strategy and grew content UV by 25x and doubled the number of qualified leads within 4 months.",
       learning: "Learnt how to do SEO well and the importance of distribution."
     },
     {
