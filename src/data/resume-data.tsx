@@ -120,9 +120,10 @@ export const RESUME_DATA = {
       techStack: [
         "Python",
         "LLM",
-        "RAG"
+        "RAG",
+        "Hackathon"
       ],
-      description: "Multimodal RAG (video + text) to query and investigate security footages",
+      description: "Multimodal RAG (video) to query security footages. Hackathon 3rd among 400+ participants and ~50 teams.",
       link: {
         label: "devpost.com",
         href: "https://devpost.com/software/secure-ai-an1ipd",
