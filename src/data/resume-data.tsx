@@ -116,6 +116,20 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Security Copilot",
+      techStack: [
+        "Python",
+        "LLM",
+        "RAG"
+      ],
+      description: "Multimodal RAG (video + text) to query and investigate security footages",
+      link: {
+        label: "devpost.com",
+        href: "https://devpost.com/software/secure-ai-an1ipd",
+      },
+    },
+    
+    {
       title: "AI-Powered Terminal Copilot",
       techStack: [
         "Python",
