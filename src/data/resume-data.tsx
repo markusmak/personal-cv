@@ -123,7 +123,7 @@ export const RESUME_DATA = {
         "RAG",
         "Hackathon"
       ],
-      description: "Multimodal RAG (video) to query security footages. Hackathon 3rd among 400+ participants and ~50 teams.",
+      description: "Multimodal RAG (video) to query security footages. Hackathon 3rd.",
       link: {
         label: "devpost.com",
         href: "https://devpost.com/software/secure-ai-an1ipd",
