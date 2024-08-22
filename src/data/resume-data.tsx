@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Product manager tinkering with AI, growth and design",
   summary:
-    "Self-driven product manager with experience in growth and machine learning. Currently working at Bytedance as a growth product manager for a new B2B work collaboration suite. Familiar with full-stack web development and machine learning stack. Interested in AI, productivity, and SaaS.",
+    "Product manager with experience in AI and growth. Currently working at Bytedance AI Labs as a strategy product manager, leading reasoning and multimodal post-training data and strategy. Familiar with full-stack web development and machine learning stack.",
   avatarUrl: "https://avatars.githubusercontent.com/u/54108129?v=4",
   personalWebsiteUrl: "",
   contact: {
@@ -60,6 +60,18 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+    {
+      company: "Bytedance",
+      link: "https://bytedance.com",
+      badges: [],
+      title: "Strategy Product Manager",
+      start: "2024",
+      end: "Now",
+      description: "Leading reasoning and multimodal post-training data and strategy.",
+
+      //         "Responsible for top funnel growth. Designed B2B content strategy and grew content UV by 25x and doubled the number of qualified leads within 4 months.",
+      learning: "How to build SOTA LLM foundation models and how to lead teams"
+    },
     {
       company: "Bytedance",
       link: "https://bytedance.com",
@@ -115,6 +127,13 @@ export const RESUME_DATA = {
     "Flask"
   ],
   projects: [
+    {
+      title: "Stealth",
+      techStack: [
+        "LLM",
+      ],
+      description: "Currently 5-fig ARR. Brewing...",
+    },
     {
       title: "Security Copilot",
       techStack: [
