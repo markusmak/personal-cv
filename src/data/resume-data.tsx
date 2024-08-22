@@ -78,7 +78,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "Growth Product Manager",
       start: "2023",
-      end: "Now",
+      end: "2023",
       description: "Responsible for top funnel growth. Designed B2B content strategy to grow content UV and qualified leads.",
 
       //         "Responsible for top funnel growth. Designed B2B content strategy and grew content UV by 25x and doubled the number of qualified leads within 4 months.",
