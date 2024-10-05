@@ -70,7 +70,7 @@ export const RESUME_DATA = {
       description: "Leading reasoning and multimodal post-training data and strategy.",
 
       //         "Responsible for top funnel growth. Designed B2B content strategy and grew content UV by 25x and doubled the number of qualified leads within 4 months.",
-      learning: "How to build SOTA LLM foundation models and how to lead teams."
+      learning: "How to train SOTA LLM foundation models and how to lead teams."
     },
     {
       company: "Bytedance",
@@ -132,7 +132,7 @@ export const RESUME_DATA = {
       techStack: [
         "LLM",
       ],
-      description: "Currently 5-fig ARR. Brewing...",
+      description: "Solo building. Currently 6-fig ARR. Brewing...",
     },
     {
       title: "Security Copilot",
